@@ -1,0 +1,9 @@
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/bin/Debug/netcoreapp3.1/KatasProject.deps.json
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/bin/Debug/netcoreapp3.1/KatasProject.dll
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/bin/Debug/netcoreapp3.1/KatasProject.pdb
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/obj/Debug/netcoreapp3.1/KatasProject.csprojAssemblyReference.cache
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/obj/Debug/netcoreapp3.1/KatasProject.AssemblyInfoInputs.cache
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/obj/Debug/netcoreapp3.1/KatasProject.AssemblyInfo.cs
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/obj/Debug/netcoreapp3.1/KatasProject.csproj.CoreCompileInputs.cache
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/obj/Debug/netcoreapp3.1/KatasProject.dll
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/KatasProject/obj/Debug/netcoreapp3.1/KatasProject.pdb

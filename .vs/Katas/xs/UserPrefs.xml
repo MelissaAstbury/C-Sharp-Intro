@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/KatasTest.cs">
+    <Files>
+      <File FileName="KatasProject/Katas.cs" Line="16" Column="43" />
+      <File FileName="Test/KatasTest.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Katas" expanded="True">
+            <Node name="KatasProject" expanded="True" />
+            <Node name="Test" expanded="True">
+              <Node name="KatasTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Katas" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../CSharp/c-sharp-katas/Katas/KatasProject/Katas.cs" line="14" column="21" endLine="14" endColumn="24" offsetX="-1" offsetY="-1" expression="Katas.Models.Animal" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

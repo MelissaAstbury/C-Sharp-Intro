@@ -1,0 +1,9 @@
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/bin/Debug/netcoreapp3.1/Threading.deps.json
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/bin/Debug/netcoreapp3.1/Threading.dll
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/bin/Debug/netcoreapp3.1/Threading.pdb
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/obj/Debug/netcoreapp3.1/Threading.csprojAssemblyReference.cache
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/obj/Debug/netcoreapp3.1/Threading.AssemblyInfoInputs.cache
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/obj/Debug/netcoreapp3.1/Threading.AssemblyInfo.cs
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/obj/Debug/netcoreapp3.1/Threading.csproj.CoreCompileInputs.cache
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/obj/Debug/netcoreapp3.1/Threading.dll
+/Users/melissaastbury/Documents/Study/c-sharp-katas/Katas/Threading/obj/Debug/netcoreapp3.1/Threading.pdb
