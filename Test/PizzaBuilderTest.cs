@@ -37,7 +37,7 @@ namespace Test
         }
 
         [Fact]
-        public void IsServedWithChees()
+        public void IsServedWithCheese()
         {
             // arrange
             var pizzaBuilder = new PizzaBuilder();
@@ -49,6 +49,36 @@ namespace Test
 
             // assert
             Assert.Equal("Babybell", pizza["Cheese"]);
+        }
+
+        [Fact]
+        public void IsServedWithToppingOne()
+        {
+            // arrange
+            var pizzaBuilder = new PizzaBuilder();
+
+            // act
+
+            var pizza = pizzaBuilder.Build();
+
+
+            // assert
+            Assert.Equal("A potato", pizza["ToppingOne"]);
+        }
+
+        [Fact]
+        public void IsServedWithToppingTwo()
+        {
+            // arrange
+            var pizzaBuilder = new PizzaBuilder();
+
+            // act
+
+            var pizza = pizzaBuilder.Build();
+
+
+            // assert
+            Assert.Equal("Prosciutto", pizza["ToppingTwo"]);
         }
     }
 }

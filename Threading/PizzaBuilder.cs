@@ -33,12 +33,23 @@ namespace Threading
             var cheeseThread = new Thread(PrepCheese);
             cheeseThread.Start();
 
+            var toppingOne = new Thread(PrepVeg);
+            toppingOne.Start();
+
+            var toppingTwo = new Thread(PrepHam);
+            toppingTwo.Start();
+
             // join back into the main thread
             sauceThread.Join();
             cheeseThread.Join();
+            toppingOne.Join();
+            toppingTwo.Join();
+
             // add to pizza dictionary
             pizza["Sauce"] = Sauce;
             pizza["Cheese"] = Cheese;
+            pizza["ToppingOne"] = ToppingOne;
+            pizza["ToppingTwo"] = ToppingTwo;
             
             return pizza;
         }
