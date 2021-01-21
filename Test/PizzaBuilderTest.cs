@@ -20,5 +20,35 @@ namespace Test
             // assert
             Assert.True(stopwatch.ElapsedMilliseconds < 5000);
         }
+
+        [Fact]
+        public void IsServedWithSauce()
+        {
+            // arrange
+            var pizzaBuilder = new PizzaBuilder();
+
+            // act
+
+            var pizza = pizzaBuilder.Build();
+
+
+            // assert
+            Assert.Equal("Ketchup", pizza["Sauce"]);
+        }
+
+        [Fact]
+        public void IsServedWithChees()
+        {
+            // arrange
+            var pizzaBuilder = new PizzaBuilder();
+
+            // act
+
+            var pizza = pizzaBuilder.Build();
+
+
+            // assert
+            Assert.Equal("Babybell", pizza["Cheese"]);
+        }
     }
 }

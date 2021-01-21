@@ -25,6 +25,21 @@ namespace Threading
         public Dictionary<string, string> Build()
         {
             var pizza =  new Dictionary<string, string>();
+
+            // add sauce to Pizza by making it's own thread
+            var sauceThread = new Thread(PrepSauce);
+            sauceThread.Start();
+
+            var cheeseThread = new Thread(PrepCheese);
+            cheeseThread.Start();
+
+            // join back into the main thread
+            sauceThread.Join();
+            cheeseThread.Join();
+            // add to pizza dictionary
+            pizza["Sauce"] = Sauce;
+            pizza["Cheese"] = Cheese;
+            
             return pizza;
         }
 
